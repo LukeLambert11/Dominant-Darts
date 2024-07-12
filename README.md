@@ -3,6 +3,7 @@
 The Darts Scoring App is a Swift application developed using SwiftUI, designed to efficiently track and display scores for darts games. It provides a user-friendly interface with various features to enhance the darts playing experience.
 
 https://www.youtube.com/watch?v=PlyNshBtKwY
+![image](https://github.com/user-attachments/assets/ef1551e4-9e75-4828-a3d4-953f2ef39930)
 
 
 [![Img alt text](https://github.com/user-attachments/assets/fd2ab061-62ef-4d83-9138-c0b934f39c05)
