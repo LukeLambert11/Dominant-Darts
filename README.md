@@ -5,7 +5,7 @@ The Darts Scoring App is a Swift application developed using SwiftUI, designed t
 https://www.youtube.com/watch?v=PlyNshBtKwY
 
 <a href="https://www.youtube.com/watch?v=dTMFMGquoh4">
-    <img src="https://github.com/user-attachments/assets/fd2ab061-62ef-4d83-9138-c0b934f39c05" alt="Img alt text" height="200"/>
+    <img src="https://github.com/user-attachments/assets/fd2ab061-62ef-4d83-9138-c0b934f39c05" alt="Img alt text" height="600"/>
 </a>
 
 
