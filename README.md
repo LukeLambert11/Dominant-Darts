@@ -2,6 +2,12 @@
 
 The Darts Scoring App is a Swift application developed using SwiftUI, designed to efficiently track and display scores for darts games. It provides a user-friendly interface with various features to enhance the darts playing experience.
 
+https://www.youtube.com/watch?v=PlyNshBtKwY
+
+
+[![Img alt text](https://user-images.githubusercontent.com/67522723/200349477-9af00436-a70b-4772-a20c-1f64cee3ac33.jpg)
+]([https://www.youtube.com/watch?v=PlyNshBtKwY](https://www.youtube.com/watch?v=dTMFMGquoh4))
+
 ## Features
 
 1. **Smart Number Pad**: The app includes a smart number pad for streamlined input. Users can quickly enter their scores by tapping on the virtual dartboard or using a keypad. The smart number pad dynamically adjusts the available buttons based on the user's current score and the remaining score needed to finish the game.
